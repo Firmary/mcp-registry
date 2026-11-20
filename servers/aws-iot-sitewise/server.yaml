@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 636aca8e109b5559006044f035bb89c16e9e5410
+  commit: dc925c8c3355d6f72bb13a2522d72e5266e1ef7c
   directory: src/aws-iot-sitewise-mcp-server
 config:
   description: Configure AWS credentials for IoT SiteWise access
