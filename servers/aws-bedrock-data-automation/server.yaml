@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 780e3f1d57c77f9c0b88279711c5b95e23cfb91d
+  commit: dc925c8c3355d6f72bb13a2522d72e5266e1ef7c
   directory: src/aws-bedrock-data-automation-mcp-server
 config:
   description: Configure AWS credentials and S3 bucket for data automation
